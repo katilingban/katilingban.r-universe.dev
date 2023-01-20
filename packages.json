@@ -1,0 +1,14 @@
+[
+    {
+        "package": "ppitables",
+        "url": "https://github.com/katilingban/ppitables"
+    },
+    {
+        "package": "washdata",
+        "url": "https://github.com/katilingban/washdata"
+    },
+    {
+        "package": "ennet",
+        "url": "https://github.com/katilingban/ennet"
+    }
+]
