@@ -10,5 +10,13 @@
     {
         "package": "ennet",
         "url": "https://github.com/katilingban/ennet"
+    },
+    {
+        "package": "katilingban",
+        "url": "https://github.com/katilingban/katilingban"
+    },
+    {
+        "package": "motif",
+        "url": "https://github.com/katilingban/motif"
     }
 ]
