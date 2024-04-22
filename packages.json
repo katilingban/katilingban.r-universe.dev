@@ -18,5 +18,9 @@
     {
         "package": "paleta",
         "url": "https://github.com/katilingban/paleta"
+    },
+    {
+        "package": "pakete",
+        "url": "https://github.com/katilingban/pakete"
     }
 ]
